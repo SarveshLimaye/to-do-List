@@ -6,5 +6,5 @@ The functionality include-
 2. Editing item in list
 3. Deleting item in list
 4. Clearing List.
+![image](https://user-images.githubusercontent.com/74766567/122092754-eb338280-ce27-11eb-9beb-fba9f7247067.png)
 
-![image](https://user-images.githubusercontent.com/74766567/122092582-b7585d00-ce27-11eb-8e9a-e46f4d5969eb.png)
